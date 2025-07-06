@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj": {}
+    "C:\\Users\\hiroy\\Documents\\GitHub\\Memory-Game-ASPNET-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj": {
+    "C:\\Users\\hiroy\\Documents\\GitHub\\Memory-Game-ASPNET-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj",
+        "projectUniqueName": "C:\\Users\\hiroy\\Documents\\GitHub\\Memory-Game-ASPNET-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj",
         "projectName": "MemoryGameDotNetBackend",
-        "projectPath": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj",
-        "packagesPath": "C:\\Users\\diony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\obj\\",
+        "projectPath": "C:\\Users\\hiroy\\Documents\\GitHub\\Memory-Game-ASPNET-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj",
+        "packagesPath": "C:\\Users\\hiroy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hiroy\\Documents\\GitHub\\Memory-Game-ASPNET-Backend\\MemoryGameDotNetBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\diony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hiroy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
