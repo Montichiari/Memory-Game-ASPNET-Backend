@@ -1,4 +1,4 @@
-﻿namespace MemoryGameDotNetBackend.Models
+﻿namespace MemoryGameDotNetBackend.Dto
 {
     public class LoginResponseDto
     {
@@ -8,6 +8,7 @@
             Tier = tier;
         }
 
+        public string Id { get; set; }
         public string Username { get; set; }
         public string Tier { get; set; }
 

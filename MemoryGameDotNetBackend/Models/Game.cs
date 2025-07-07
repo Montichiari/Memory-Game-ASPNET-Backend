@@ -11,6 +11,6 @@
         public int Timing { get; set; }
 
 
-        public virtual User Users { get; set; }
+        public virtual User User { get; set; }
     }
 }

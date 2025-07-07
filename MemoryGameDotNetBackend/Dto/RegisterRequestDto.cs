@@ -1,4 +1,4 @@
-﻿namespace MemoryGameDotNetBackend.Models
+﻿namespace MemoryGameDotNetBackend.Dto
 {
     public class RegisterRequestDto
     {

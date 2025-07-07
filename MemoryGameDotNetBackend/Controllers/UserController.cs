@@ -1,4 +1,5 @@
-﻿using MemoryGameDotNetBackend.Models;
+﻿using MemoryGameDotNetBackend.Dto;
+using MemoryGameDotNetBackend.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

@@ -46,3 +46,4 @@ C:\Users\diony\GithubProjects\Memory-Game-DotNet-Backend\MemoryGameDotNetBackend
 C:\Users\diony\GithubProjects\Memory-Game-DotNet-Backend\MemoryGameDotNetBackend\obj\Debug\net8.0\MemoryGameDotNetBackend.pdb
 C:\Users\diony\GithubProjects\Memory-Game-DotNet-Backend\MemoryGameDotNetBackend\obj\Debug\net8.0\MemoryGameDotNetBackend.genruntimeconfig.cache
 C:\Users\diony\GithubProjects\Memory-Game-DotNet-Backend\MemoryGameDotNetBackend\obj\Debug\net8.0\ref\MemoryGameDotNetBackend.dll
+C:\Users\diony\GithubProjects\Memory-Game-DotNet-Backend\MemoryGameDotNetBackend\obj\Debug\net8.0\MemoryGameDotNetBackend.sourcelink.json

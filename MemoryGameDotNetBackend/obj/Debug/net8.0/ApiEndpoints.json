@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "MemoryGameDotNetBackend.Controllers.GameController",
+    "Method": "GetLeaderboard",
+    "RelativePath": "api/Game/leaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MemoryGameDotNetBackend.Controllers.GameController",
+    "Method": "CreateGame",
+    "RelativePath": "api/Game/savegame",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MemoryGameDotNetBackend.Dto.GameRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MemoryGameDotNetBackend.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/login",
@@ -9,7 +35,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "MemoryGameDotNetBackend.Models.LoginRequestDto",
+        "Type": "MemoryGameDotNetBackend.Dto.LoginRequestDto",
         "IsRequired": true
       }
     ],
@@ -25,7 +51,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "MemoryGameDotNetBackend.Models.RegisterRequestDto",
+        "Type": "MemoryGameDotNetBackend.Dto.RegisterRequestDto",
         "IsRequired": true
       }
     ],
