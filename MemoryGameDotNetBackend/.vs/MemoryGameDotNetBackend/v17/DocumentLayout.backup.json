@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\memorygamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:memorygamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\dto\\leaderboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\memorygamedotnetbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:memorygamedotnetbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|c:\\users\\diony\\githubprojects\\memory-game-dotnet-backend\\memorygamedotnetbackend\\memorygamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DF5207E-E53F-48C9-A238-9578E63BAB05}|MemoryGameDotNetBackend.csproj|solutionrelative:memorygamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,38 +75,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T04:30:25.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LeaderboardResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LeaderboardResponseDto.cs",
-              "RelativeDocumentMoniker": "Dto\\LeaderboardResponseDto.cs",
-              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LeaderboardResponseDto.cs",
-              "RelativeToolTip": "Dto\\LeaderboardResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T09:55:03.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "Controllers\\GameController.cs",
               "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Controllers\\GameController.cs",
               "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T19:41:46.838Z",
               "EditorCaption": ""
@@ -119,14 +93,49 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBYAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:54:51.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:54:51.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:37:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaderboardResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LeaderboardResponseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LeaderboardResponseDto.cs",
+              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LeaderboardResponseDto.cs",
+              "RelativeToolTip": "Dto\\LeaderboardResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:55:03.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T04:30:25.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "Dto\\LoginRequestDto.cs",
@@ -134,8 +143,7 @@
               "RelativeToolTip": "Dto\\LoginRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:47:58.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:47:58.785Z"
             },
             {
               "$type": "Document",
@@ -145,14 +153,13 @@
               "RelativeDocumentMoniker": "Dto\\LoginResponseDto.cs",
               "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\LoginResponseDto.cs",
               "RelativeToolTip": "Dto\\LoginResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:44:04.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:44:04.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -160,12 +167,23 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:38:58.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:38:58.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "MemoryGameContext.cs",
+              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameContext.cs",
+              "RelativeDocumentMoniker": "MemoryGameContext.cs",
+              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameContext.cs",
+              "RelativeToolTip": "MemoryGameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:27:53.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Models\\Game.cs",
@@ -173,12 +191,11 @@
               "RelativeToolTip": "Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:39:30.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:39:30.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RegisterRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\RegisterRequestDto.cs",
               "RelativeDocumentMoniker": "Dto\\RegisterRequestDto.cs",
@@ -186,12 +203,11 @@
               "RelativeToolTip": "Dto\\RegisterRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:57:48.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:57:48.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -203,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "GameRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Dto\\GameRequestDto.cs",
               "RelativeDocumentMoniker": "Dto\\GameRequestDto.cs",
@@ -215,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MemoryGameDotNetBackend.csproj",
               "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameDotNetBackend.csproj",
               "RelativeDocumentMoniker": "MemoryGameDotNetBackend.csproj",
@@ -224,30 +240,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-04T19:27:28.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MemoryGameContext.cs",
-              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameContext.cs",
-              "RelativeDocumentMoniker": "MemoryGameContext.cs",
-              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\MemoryGameContext.cs",
-              "RelativeToolTip": "MemoryGameContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:27:53.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:37:45.914Z"
             }
           ]
         }

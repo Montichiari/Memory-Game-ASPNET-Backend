@@ -2,8 +2,9 @@
 {
     public class LoginResponseDto
     {
-        public LoginResponseDto(string username, string tier)
+        public LoginResponseDto(string id, string username, string tier)
         {
+            Id = id;
             Username = username;
             Tier = tier;
         }

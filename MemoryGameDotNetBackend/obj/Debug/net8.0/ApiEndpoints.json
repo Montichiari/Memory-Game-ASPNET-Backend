@@ -11,6 +11,16 @@
   },
   {
     "ContainingType": "MemoryGameDotNetBackend.Controllers.GameController",
+    "Method": "MakeFakes",
+    "RelativePath": "api/Game/makefakes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MemoryGameDotNetBackend.Controllers.GameController",
     "Method": "CreateGame",
     "RelativePath": "api/Game/savegame",
     "HttpMethod": "POST",

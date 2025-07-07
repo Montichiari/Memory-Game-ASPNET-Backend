@@ -58,3 +58,9 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\images\coke.jpg
+wwwroot\images\colgate.jpg
+wwwroot\images\kireikirei.jpg
+wwwroot\images\mcdonalds.jpg
+wwwroot\images\milo.jpg
+wwwroot\images\pantene.jpg

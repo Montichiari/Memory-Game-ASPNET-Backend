@@ -19,6 +19,7 @@ namespace MemoryGameDotNetBackend.Controllers
         [HttpPost("login")]
         public IActionResult Login(LoginRequestDto request)
         {
+            System.Diagnostics.Debug.WriteLine("Login called");
 
             var user = db.Users.FirstOrDefault(u => u.Username == request.Username && u.Password == request.Password);
             if (user == null)
@@ -26,7 +27,7 @@ namespace MemoryGameDotNetBackend.Controllers
                 return Unauthorized("Invalid username or password.");
             }
             // Assuming the User model has a Tier property
-            var response = new LoginResponseDto(user.Username, user.Tier);
+            var response = new LoginResponseDto(user.Id, user.Username, user.Tier);
             return Ok(response);
        
 
