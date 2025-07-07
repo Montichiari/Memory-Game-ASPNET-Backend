@@ -66,12 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -80,7 +76,7 @@
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\diony\\GithubProjects\\Memory-Game-DotNet-Backend\\MemoryGameDotNetBackend\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-07T04:30:25.983Z",
               "EditorCaption": ""
@@ -95,8 +91,7 @@
               "RelativeToolTip": "Dto\\LeaderboardResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T09:55:03.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T09:55:03.294Z"
             },
             {
               "$type": "Document",
@@ -108,8 +103,7 @@
               "RelativeToolTip": "Controllers\\GameController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:41:46.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T19:41:46.838Z"
             },
             {
               "$type": "Document",
@@ -121,8 +115,7 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwBYAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:54:51.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:54:51.605Z"
             },
             {
               "$type": "Document",
@@ -134,8 +127,7 @@
               "RelativeToolTip": "Dto\\LoginRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:47:58.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:47:58.785Z"
             },
             {
               "$type": "Document",
@@ -147,8 +139,7 @@
               "RelativeToolTip": "Dto\\LoginResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:44:04.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:44:04.696Z"
             },
             {
               "$type": "Document",
@@ -160,8 +151,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:38:58.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:38:58.629Z"
             },
             {
               "$type": "Document",
@@ -173,8 +163,7 @@
               "RelativeToolTip": "Models\\Game.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:39:30.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:39:30.049Z"
             },
             {
               "$type": "Document",
@@ -186,8 +175,7 @@
               "RelativeToolTip": "Dto\\RegisterRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:57:48.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:57:48.699Z"
             },
             {
               "$type": "Document",
@@ -248,6 +236,10 @@
               "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T19:37:45.914Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
