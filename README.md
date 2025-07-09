@@ -4,9 +4,9 @@ This is the backend for the Memory Game app, built with ASP.NET Core and Entity 
 ---
 ## Setup Instructions
 ### 1. Clone the Repository
-- ```bash
-- git clone https://github.com/your-repo/memory-game-backend.git
-- cd memory-game-backend
+```bash
+git clone https://github.com/your-repo/memory-game-backend.git
+cd memory-game-backend
 
 ### 2. Setup MySQL via Docker
 
